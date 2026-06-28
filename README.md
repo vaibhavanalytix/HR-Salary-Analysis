@@ -19,9 +19,11 @@ This project analyzes employee salary data to determine whether salary differenc
 - Sales department has the highest average salary
 
 ## Project Structure
+```
 HR_Salary_Analysis/
-├── Data/
-├── Images/
-├── Notebooks/
-│   └── hr_salary_analysis.ipynb
+├── DATA/
+├── IMAGES/
+├── NOTEBOOKS/
+│   └── salary_analysis.ipynb
 └── README.md
+```
